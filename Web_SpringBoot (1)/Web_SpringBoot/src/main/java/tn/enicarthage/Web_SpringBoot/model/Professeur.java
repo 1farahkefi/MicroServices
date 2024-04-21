@@ -29,9 +29,9 @@ public class Professeur extends Utilisateur {
     @Column(name="departement")
     private Departement departement;
 
-    public static ProfesseurBuilder professeurBuilder() {
+    /*public static ProfesseurBuilder professeurBuilder() {
         return new ProfesseurBuilder();
-    }
+    }*/
 
     // Builder spécifique pour Professeur
     public static class ProfesseurBuilder {
@@ -44,17 +44,17 @@ public class Professeur extends Utilisateur {
 
     }
 
-    public Professeur(String email, String password) {
+    /*public Professeur(String email, String password) {
         super(email, password);
 
-    }
+
 
     public Professeur(String email, String password, List<Classe> classes, Departement departement) {
         super(email, password);
         this.classes = classes;
         this.departement = departement;
 
-    }
+    }}*/
 
     @Override
     public String toString() {

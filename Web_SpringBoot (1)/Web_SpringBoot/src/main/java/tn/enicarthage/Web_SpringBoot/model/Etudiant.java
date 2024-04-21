@@ -28,11 +28,11 @@ public class Etudiant extends Utilisateur {
     @Enumerated(EnumType.STRING)
     private Classe classe;
 
-    public Etudiant(String email, String password,Niveau nv,Classe cl) {
+    /*public Etudiant(String email, String password,Niveau nv,Classe cl) {
         super(email, password);
         this.niveau=nv;
         this.classe=cl;
-    }
+    }*/
 
     @Override
     public String toString() {
