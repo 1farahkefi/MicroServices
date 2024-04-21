@@ -34,9 +34,9 @@ public class Professeur extends Utilisateur {
     }*/
 
     // Builder spécifique pour Professeur
-    public static class ProfesseurBuilder {
+    /*public static class ProfesseurBuilder {
         // Implémentation du builder pour Professeur
-    }
+    }*/
 
     public Professeur() {
 
