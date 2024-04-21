@@ -1,0 +1,222 @@
+
+Sun Oct 08 00:41:13 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Oct 12 01:15:43 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Oct 12 21:13:30 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Oct 27 15:13:14 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Oct 27 15:16:12 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Nov 16 21:23:17 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sat Nov 18 15:47:39 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+Sat Nov 18 15:47:43 2023
+ORA-28056: Writing audit records to Windows Event Log failed
+OSD-158231232: Message 158231232 not found;  product=RDBMS; facility=SOSD
+
+O/S-Error: (OS 1722) Le serveur RPC n¿est pas disponible.
+
+
+Sun Nov 19 09:19:06 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Mon Nov 20 23:01:52 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Mon Nov 20 23:05:38 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 08:30:41 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 08:33:02 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 08:44:07 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 08:53:36 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 08:56:33 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 09:06:01 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 09:11:06 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 09:15:21 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 09:31:39 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 09:42:59 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:19:00 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:23:09 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:26:25 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:32:39 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:36:03 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:50:35 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:55:17 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 10:57:33 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 11:14:20 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 11:17:51 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 11:21:30 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Nov 21 12:52:38 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Dec 01 10:58:21 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Dec 01 11:16:57 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Mon Dec 04 09:02:53 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Dec 08 23:45:11 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sat Dec 09 11:37:53 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Dec 13 02:43:41 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+Wed Dec 13 02:43:43 2023
+ORA-28056: Writing audit records to Windows Event Log failed
+OSD-158102336: Message 158102336 not found;  product=RDBMS; facility=SOSD
+
+O/S-Error: (OS 1722) Le serveur RPC n¿est pas disponible.
+
+
+Wed Dec 13 13:41:49 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Dec 13 15:29:07 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Dec 13 15:59:22 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Dec 29 16:13:01 2023
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sun Jan 14 19:38:50 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sun Jan 14 19:39:25 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Mon Jan 15 14:08:55 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Mon Jan 15 14:18:37 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Jan 16 10:55:08 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sat Jan 27 23:15:38 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Jan 30 20:05:29 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Jan 31 18:09:55 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Feb 01 22:55:49 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Feb 02 08:49:15 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -shutdown -sid xe -usrpwd * -shutmode immediate -log oradim.log 
+
+Sat Feb 03 22:03:20 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Feb 15 23:42:32 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Feb 16 08:45:16 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Feb 28 00:49:00 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Mar 01 20:17:31 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Mar 01 22:07:27 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Mar 14 00:47:34 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Fri Mar 15 22:28:12 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sun Mar 31 12:53:24 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Sun Mar 31 23:30:18 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Apr 09 04:26:45 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Tue Apr 09 17:56:14 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Apr 10 00:46:57 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Apr 10 00:47:54 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Apr 17 22:24:45 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Apr 17 23:00:34 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Wed Apr 17 23:41:45 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
+
+Thu Apr 18 00:11:26 2024
+C:\Users\farah\OneDrive\Bureau\app\oracle\product\11.2.0\server\bin\oradim.exe -startup -sid xe -usrpwd *  -log oradim.log -nocheck 0 
