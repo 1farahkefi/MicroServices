@@ -20,7 +20,7 @@ public class Etudiant_Controller {
 
     @GetMapping("/all")
     public ResponseEntity<List<Etudiant>> getAllEtudiant() {
-        return new ResponseEntity<List<Etudiant>>(Etudiant_service.allEtudiant(), HttpStatus.OK);
+        return new ResponseEntity<>(Etudiant_service.allEtudiant(), HttpStatus.OK);
 
     }
 
