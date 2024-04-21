@@ -1,8 +1,6 @@
 package tn.enicarthage.Web_SpringBoot.model;
 import jakarta.persistence.*;
-
 import lombok.*;
-
 import java.io.Serial;
 import java.util.List;
 
@@ -10,8 +8,6 @@ import java.util.List;
 @Getter
 @EqualsAndHashCode(callSuper = true)
 @Data
-
-
 @AllArgsConstructor
 @Entity
 @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
@@ -29,14 +25,6 @@ public class Professeur extends Utilisateur {
     @Column(name="departement")
     private Departement departement;
 
-    /*public static ProfesseurBuilder professeurBuilder() {
-        return new ProfesseurBuilder();
-    }*/
-
-    // Builder spécifique pour Professeur
-    /*public static class ProfesseurBuilder {
-        // Implémentation du builder pour Professeur
-    }*/
 
     public Professeur() {
 
@@ -44,17 +32,7 @@ public class Professeur extends Utilisateur {
 
     }
 
-    /*public Professeur(String email, String password) {
-        super(email, password);
 
-
-
-    public Professeur(String email, String password, List<Classe> classes, Departement departement) {
-        super(email, password);
-        this.classes = classes;
-        this.departement = departement;
-
-    }}*/
 
     @Override
     public String toString() {
