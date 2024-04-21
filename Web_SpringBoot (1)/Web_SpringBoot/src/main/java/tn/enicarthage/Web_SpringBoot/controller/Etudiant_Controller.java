@@ -4,11 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import tn.enicarthage.Web_SpringBoot.model.Administration;
 import tn.enicarthage.Web_SpringBoot.model.Etudiant;
-import tn.enicarthage.Web_SpringBoot.repository.Administration_Repository;
-import tn.enicarthage.Web_SpringBoot.repository.Etudiant_Repository;
-import tn.enicarthage.Web_SpringBoot.service.Administration_service;
+
 import tn.enicarthage.Web_SpringBoot.service.Etudiant_service;
 
 import java.util.List;
