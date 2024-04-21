@@ -8,11 +8,13 @@ import jakarta.persistence.InheritanceType;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.Getter;
 
 import java.io.Serial;
 import java.util.Date;
 
 
+@Getter
 @EqualsAndHashCode(callSuper = true)
 
 @Data
@@ -33,7 +35,7 @@ public class Administration extends Utilisateur {
         super();
     }
 
-    public Administration(Long id) {
+    /*public Administration(Long id) {
         this.id = id;
     }
 
@@ -50,10 +52,7 @@ public class Administration extends Utilisateur {
     public Administration(String email, String password) {
         super(email, password);
     }
+*/
 
-
-    public Long getId() {
-        return id;
-    }
 }
 
