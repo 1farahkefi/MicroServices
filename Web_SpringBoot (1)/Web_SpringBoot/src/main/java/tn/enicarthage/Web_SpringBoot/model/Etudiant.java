@@ -32,7 +32,6 @@ public class Etudiant extends Utilisateur {
         super(email, password);
         this.niveau=nv;
         this.classe=cl;
-        // TODO Auto-generated constructor stub
     }
 
     @Override

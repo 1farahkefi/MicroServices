@@ -31,7 +31,6 @@ public class Administration extends Utilisateur {
 
     public Administration() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     public Administration(Long id) {
@@ -50,7 +49,6 @@ public class Administration extends Utilisateur {
 
     public Administration(String email, String password) {
         super(email, password);
-        // TODO Auto-generated constructor stub
     }
 
 

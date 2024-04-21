@@ -42,13 +42,11 @@ public class Professeur extends Utilisateur {
 
         super();
 
-        // TODO Auto-generated constructor stub
     }
 
     public Professeur(String email, String password) {
         super(email, password);
 
-        // TODO Auto-generated constructor stub
     }
 
     public Professeur(String email, String password, List<Classe> classes, Departement departement) {
