@@ -31,9 +31,6 @@ public class Professeur extends Utilisateur {
         super();
 
     }
-
-
-
     @Override
     public String toString() {
         return "Professeur [classes=" + classes + ", departement=" + departement + ", getId()=" + getId()
