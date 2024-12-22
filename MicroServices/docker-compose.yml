@@ -1,0 +1,23 @@
+
+services:
+  data-processing-service:
+    build:
+      context: .  # Racine du projet
+      dockerfile: src/main/java/com/example/microservices/MicroService_Data/Dockerfile
+    ports:
+      - "8088:8088"
+    networks:
+      - app-network
+
+  data-exposure-service:
+    build:
+      context: .  # Racine du projet
+      dockerfile: src/main/java/com/example/microservices/Microservices_Patient/Dockerfile
+    ports:
+      - "8087:8087"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
